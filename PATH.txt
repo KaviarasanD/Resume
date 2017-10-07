@@ -1,5 +1,0 @@
-C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
-PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
-
-
-C:\Program Files\Java\jdk1.8.0_144\bin;C:\Users\MR user\Desktop\Ram\
